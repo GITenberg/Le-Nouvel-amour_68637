@@ -1,0 +1,26 @@
+_repo: Le-Nouvel-amour_68637
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marsan, Eugène
+    gutenberg_agent_id: '54878'
+    url: http://www.gutenberg.org/2009/agents/54878
+description: ''
+gutenberg_issued: '2022-07-29'
+identifiers:
+  gutenberg: '68637'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k411304r
+pgterms:marc905: 20220117115733marsan
+pgterms:marc906: '1925'
+pgterms:marc907: FR
+production_note: René Galluvot (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: France :Chez Madame Lesage,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le Nouvel amour
+url: http://www.gutenberg.org/ebooks/68637
